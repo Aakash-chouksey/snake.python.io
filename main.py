@@ -1,4 +1,8 @@
+# this was build using pygames
+
 import pygame
+
+
 import random
 import time
 from pygame.locals  import *
